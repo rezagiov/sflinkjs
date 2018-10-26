@@ -1,0 +1,2 @@
+# sflinkjs
+safelink
